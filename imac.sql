@@ -134,7 +134,7 @@ INSERT ALL
     INTO Registration values ('R3','S3','ACT3')
     INTO Registration values ('R4','S4','ACT4')
     INTO Registration values ('R5','S5','ACT5')
-    INTO Registration values ('R6','S1','ACT1')
+    INTO Registration values ('R6','S1','ACT4')
     select * from dual;
 
 INSERT ALL
